@@ -15,6 +15,9 @@ from sklearn.discriminant_analysis import LinearDiscriminantAnalysis
 from sklearn.naive_bayes import GaussianNB
 from sklearn.svm import SVC
 
+# Tutorial link:
+# https://machinelearningmastery.com/machine-learning-in-python-step-by-step/
+
 # ***Part 1 - Import data, take a peek, and create basic plots.*** #
 
 # Load dataset

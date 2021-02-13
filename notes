@@ -12,11 +12,3 @@ https://en.wikipedia.org/wiki/Iris_flower_data_set
 
 iris details/wiki^
 
-
-libraries:
-scipy
-numpy
-matplotlib
-pandas
-sklearn
-
